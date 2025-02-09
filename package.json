@@ -33,8 +33,7 @@
     "globals": "^15.14.0",
     "postcss": "latest",
     "prisma": "^5.11.0",
-    "tailwindcss": "latest",
-    "typescript": "5.7.3"
+    "tailwindcss": "latest"
   },
   "engines": {
     "node": "22.x"
